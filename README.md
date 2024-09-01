@@ -10,7 +10,7 @@ The very first website, created by Tim Berners-Lee in 1991, is still online! It'
  The website was hosted on CERN's server and marked the beginning of the internet as we know it today.
 You can still visit it at its original URL: http://info.cern.ch.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FKRUcQojx3ruXrZwdJo4xXePiFuZeI8wUw&s"/>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FKRUcQojx3ruXrZwdJo4xXePiFuZeI8wUw&s"/></center>
 
 <!---
 codegodop/codegodop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
